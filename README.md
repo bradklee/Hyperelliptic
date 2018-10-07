@@ -1,2 +1,4 @@
 # Hyperelliptic
-Picard-Fuchs Algorithm For Hyperelliptic Level Curves (PARI-GP)
+An Extremely Easy Picard-Fuchs Algorithm For Hyperelliptic Level Curves
+## License
+Released under GPLv3.
